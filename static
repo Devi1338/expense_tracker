@@ -1,0 +1,5 @@
+<script>start("/Users/devishigera/Desktop/expense_tracker/static/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("icon.png","icon.png",0,40079,"39.1 kB",1739036642,"08/02/2025, 23:14:02");</script>
+<script>addRow("script.js","script.js",0,4032,"3.9 kB",1739044119,"09/02/2025, 01:18:39");</script>
+<script>addRow("style.css","style.css",0,4495,"4.4 kB",1739044547,"09/02/2025, 01:25:47");</script>

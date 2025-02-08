@@ -1,0 +1,5 @@
+<script>start("/Users/devishigera/Desktop/expense_tracker/templates/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("dashboard.html","dashboard.html",0,3067,"3.0 kB",1739044166,"09/02/2025, 01:19:26");</script>
+<script>addRow("login.html","login.html",0,1007,"1007 B",1739042821,"09/02/2025, 00:57:01");</script>
+<script>addRow("register.html","register.html",0,1020,"1020 B",1739042826,"09/02/2025, 00:57:06");</script>
